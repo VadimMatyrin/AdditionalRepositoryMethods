@@ -1,0 +1,10 @@
+C:\Users\Вадим\source\repos\01.08(AdditionalRepositoryMethods)\01.08(AdditionalRepositoryMethods)\bin\Debug\netcoreapp2.0\01.08(AdditionalRepositoryMethods).deps.json
+C:\Users\Вадим\source\repos\01.08(AdditionalRepositoryMethods)\01.08(AdditionalRepositoryMethods)\bin\Debug\netcoreapp2.0\01.08(AdditionalRepositoryMethods).runtimeconfig.json
+C:\Users\Вадим\source\repos\01.08(AdditionalRepositoryMethods)\01.08(AdditionalRepositoryMethods)\bin\Debug\netcoreapp2.0\01.08(AdditionalRepositoryMethods).runtimeconfig.dev.json
+C:\Users\Вадим\source\repos\01.08(AdditionalRepositoryMethods)\01.08(AdditionalRepositoryMethods)\bin\Debug\netcoreapp2.0\01.08(AdditionalRepositoryMethods).dll
+C:\Users\Вадим\source\repos\01.08(AdditionalRepositoryMethods)\01.08(AdditionalRepositoryMethods)\obj\Debug\netcoreapp2.0\01.08(AdditionalRepositoryMethods).csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\01.08(AdditionalRepositoryMethods)\01.08(AdditionalRepositoryMethods)\obj\Debug\netcoreapp2.0\01.08(AdditionalRepositoryMethods).AssemblyInfoInputs.cache
+C:\Users\Вадим\source\repos\01.08(AdditionalRepositoryMethods)\01.08(AdditionalRepositoryMethods)\obj\Debug\netcoreapp2.0\01.08(AdditionalRepositoryMethods).AssemblyInfo.cs
+C:\Users\Вадим\source\repos\01.08(AdditionalRepositoryMethods)\01.08(AdditionalRepositoryMethods)\bin\Debug\netcoreapp2.0\01.08(AdditionalRepositoryMethods).pdb
+C:\Users\Вадим\source\repos\01.08(AdditionalRepositoryMethods)\01.08(AdditionalRepositoryMethods)\obj\Debug\netcoreapp2.0\01.08(AdditionalRepositoryMethods).dll
+C:\Users\Вадим\source\repos\01.08(AdditionalRepositoryMethods)\01.08(AdditionalRepositoryMethods)\obj\Debug\netcoreapp2.0\01.08(AdditionalRepositoryMethods).pdb
